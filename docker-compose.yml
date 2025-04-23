@@ -1,0 +1,6 @@
+services:
+  telegrambotforcarinsurancesales:
+    image: ${DOCKER_REGISTRY-}telegrambotforcarinsurancesales
+    build:
+      context: .
+      dockerfile: TelegramBotForCarInsuranceSales/Dockerfile

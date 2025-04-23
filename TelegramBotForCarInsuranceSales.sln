@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelegramBotForCarInsuranceSales", "TelegramBotForCarInsuranceSales\TelegramBotForCarInsuranceSales.csproj", "{EABA2350-61DB-470D-A2F7-7E72DEE7631C}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{933EF1C7-B0B6-478C-9F26-2A6030B0C642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABA2350-61DB-470D-A2F7-7E72DEE7631C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABA2350-61DB-470D-A2F7-7E72DEE7631C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABA2350-61DB-470D-A2F7-7E72DEE7631C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABA2350-61DB-470D-A2F7-7E72DEE7631C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933EF1C7-B0B6-478C-9F26-2A6030B0C642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933EF1C7-B0B6-478C-9F26-2A6030B0C642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933EF1C7-B0B6-478C-9F26-2A6030B0C642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933EF1C7-B0B6-478C-9F26-2A6030B0C642}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA8005AB-7045-4568-A586-8F4922A0A9EB}
+	EndGlobalSection
+EndGlobal
